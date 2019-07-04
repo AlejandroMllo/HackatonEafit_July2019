@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "480044715452",
+    "firebase_url": "https://culturagdr.firebaseio.com",
+    "project_id": "culturagdr",
+    "storage_bucket": "culturagdr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480044715452:android:eb90ec8305b0f763",
+        "android_client_info": {
+          "package_name": "eafitting.com.cultura_grd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480044715452-puqfs0u35a72f4rbm9bssg17oueqf901.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDaHnQzG7IW7MCPS33ink92ipQ4WKO534"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480044715452-puqfs0u35a72f4rbm9bssg17oueqf901.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

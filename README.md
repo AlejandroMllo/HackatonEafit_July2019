@@ -1,21 +1,16 @@
-# Un llamado por Colombia
-### Julio 2019
+# cultura_grd
 
-### Equipo: 
-Eafitting
-### Integrantes
-- Alejandro Murillo G.
-- Andres Jaramillo G.
-- Jose Ortiz.
-- Juan Pablo Vidal C.
-- Santiago Cano.
+Culturización en Gestión del Riesgo y Desastre.
 
-## Reto 3:
-¿Cómo generar cultura de la gestión del riesgo de desastres a través de la tecnologia?
+## Getting Started
 
------------------------------------------------------------------------------------
-## Solución
+This project is a starting point for a Flutter application.
 
-App móvil para educar sobre el tema con características ideadas para incentivar al usuario a conservar la app.
+A few resources to get you started if this is your first Flutter project:
 
-## App: Cultura GRD
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our 
+[online documentation](https://flutter.dev/docs), which offers tutorials, 
+samples, guidance on mobile development, and a full API reference.
